@@ -1,0 +1,5 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.254.128.30:5000/ (Press CTRL+C to quit)
+INFO:app:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2022 19:30:27] "GET /status HTTP/1.1" 200 -
